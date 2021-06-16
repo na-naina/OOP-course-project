@@ -1,0 +1,69 @@
+C:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\bin\Debug\netcoreapp3.1\OOP projects(g).exe
+C:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\bin\Debug\netcoreapp3.1\OOP projects(g).deps.json
+C:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\bin\Debug\netcoreapp3.1\OOP projects(g).runtimeconfig.json
+C:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\bin\Debug\netcoreapp3.1\OOP projects(g).runtimeconfig.dev.json
+C:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\bin\Debug\netcoreapp3.1\OOP projects(g).dll
+C:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\bin\Debug\netcoreapp3.1\OOP projects(g).pdb
+C:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).csprojAssemblyReference.cache
+C:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).csproj.GenerateResource.cache
+C:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).AssemblyInfoInputs.cache
+C:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).AssemblyInfo.cs
+C:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).csproj.CoreCompileInputs.cache
+C:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).dll
+C:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).pdb
+C:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).genruntimeconfig.cache
+C:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\bin\Debug\netcoreapp3.1\GlmSharp.dll
+C:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).csproj.CopyComplete
+C:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).csproj.ResolveComReference.cache
+C:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP_projects.third_party.GLFW.Strings.resources
+D:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).csprojAssemblyReference.cache
+D:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).csproj.ResolveComReference.cache
+D:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP_projects.third_party.GLFW.Strings.resources
+D:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).csproj.GenerateResource.cache
+D:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).AssemblyInfoInputs.cache
+D:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).AssemblyInfo.cs
+D:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).csproj.CoreCompileInputs.cache
+D:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).dll
+D:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).pdb
+D:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\bin\Debug\netcoreapp3.1\OOP projects(g).exe
+D:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\bin\Debug\netcoreapp3.1\OOP projects(g).deps.json
+D:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\bin\Debug\netcoreapp3.1\OOP projects(g).runtimeconfig.json
+D:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\bin\Debug\netcoreapp3.1\OOP projects(g).runtimeconfig.dev.json
+D:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\bin\Debug\netcoreapp3.1\OOP projects(g).dll
+D:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\bin\Debug\netcoreapp3.1\OOP projects(g).pdb
+D:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\bin\Debug\netcoreapp3.1\GlmSharp.dll
+D:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).csproj.CopyComplete
+D:\Dev\University\OOP_COURSE\OOP projects(g)\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).genruntimeconfig.cache
+D:\Dev\University\Курсач\OOP projects(g)\bin\Debug\netcoreapp3.1\OOP projects(g).exe
+D:\Dev\University\Курсач\OOP projects(g)\bin\Debug\netcoreapp3.1\OOP projects(g).deps.json
+D:\Dev\University\Курсач\OOP projects(g)\bin\Debug\netcoreapp3.1\OOP projects(g).runtimeconfig.json
+D:\Dev\University\Курсач\OOP projects(g)\bin\Debug\netcoreapp3.1\OOP projects(g).runtimeconfig.dev.json
+D:\Dev\University\Курсач\OOP projects(g)\bin\Debug\netcoreapp3.1\OOP projects(g).dll
+D:\Dev\University\Курсач\OOP projects(g)\bin\Debug\netcoreapp3.1\OOP projects(g).pdb
+D:\Dev\University\Курсач\OOP projects(g)\bin\Debug\netcoreapp3.1\GlmSharp.dll
+D:\Dev\University\Курсач\OOP projects(g)\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Dev\University\Курсач\OOP projects(g)\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Dev\University\Курсач\OOP projects(g)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Dev\University\Курсач\OOP projects(g)\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Dev\University\Курсач\OOP projects(g)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Dev\University\Курсач\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).csprojAssemblyReference.cache
+D:\Dev\University\Курсач\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).csproj.ResolveComReference.cache
+D:\Dev\University\Курсач\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP_projects.third_party.GLFW.Strings.resources
+D:\Dev\University\Курсач\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).csproj.GenerateResource.cache
+D:\Dev\University\Курсач\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).AssemblyInfoInputs.cache
+D:\Dev\University\Курсач\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).AssemblyInfo.cs
+D:\Dev\University\Курсач\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).csproj.CoreCompileInputs.cache
+D:\Dev\University\Курсач\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).csproj.CopyComplete
+D:\Dev\University\Курсач\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).dll
+D:\Dev\University\Курсач\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).pdb
+D:\Dev\University\Курсач\OOP projects(g)\obj\Debug\netcoreapp3.1\OOP projects(g).genruntimeconfig.cache

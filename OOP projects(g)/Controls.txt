@@ -1,0 +1,5 @@
+﻿-Numbers 1 to 9 - choose particle
+-Plus and minus to control pen size
+-C and V to pause and continue
+-R - reset world state
+-H and J to hide and show GUI
